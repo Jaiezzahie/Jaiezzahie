@@ -7,72 +7,70 @@
 
 ## PERSONAL STATEMENT
 
-Skilled Software Engineer with 3.5 years of industry experience, adept in full-stack development and testing. Possesses a wide range of technical skills, successfully contributing to both client-facing and AI-driven projects. Holds impressive academic achievements and certifications in Boomi, Snowflake, and Java.
+Software Engineer with over three years of industry experience in full-stack development, testing, and integration projects. Skilled in delivering scalable, maintainable solutions and experienced across both client-facing and AI-driven initiatives. Certified in Boomi, Snowflake, and Java, with a proven ability to self-learn and adapt to new technologies. Seeking a role that will deepen my technical expertise and allow me to contribute proactively within a collaborative, growth-oriented engineering team.
 
 ---
 
 ## TECHNOLOGIES SKILLSET
 
-**Backend:**  
-- Java  
-- Kotlin  
-- Bash  
-- Vert.x  
+**Programming Languages & Frameworks::**  
+- Java, Kotlin, TypeScript, React, Go (templating), Bash
 
-**Frontend:**  
-- Node.js  
-- React  
-- Typescript  
-- HTML  
-- Frontend testing: Cypress, Cucumber (Testing Tool)  
-
-**Low-code:**  
-- Boomi  
-- Azure Logic Apps  
-- Azure Pipelines  
-- Power Automate  
-
-**Databases:**  
-- SQL  
-- Mongo Clustering  
-- Snowflake  
-- Azure Blob Storage  
-
-**CI/CD:**  
-- Git  
-- Jenkins  
+**Platforms & Tools:**  
+- Boomi (Integration & Flow platforms, custom connectors, AI agents)  
 - AWS CloudFormation  
-- Gradle  
+- Grafana, Prometheus, Loki  
+- MongoDB  
+- Vert.x
+- Azure (Logic Apps, Pipelines, Power Automate, Blob Storage, Log Analyser)
 
-**Monitoring:**  
-- Grafana  
-- Loki  
-- Prometheus  
-- Azure Log Analyser  
-
-**Dev-Ops:**  
-- Azure Dev-Ops  
-- Agile Scrum Methodology  
+**Processes & Techniques:**  
+- Unit & integration testing
+- System monitoring and dashboard creation
+- Disaster recovery and server migration (CentOS → Ubuntu)
+- Software extension and connector development
+- Parallel processing, circuit breakers, data transformation
 
 ---
 
 ## EXPERIENCE
 
 ### Onepoint Consulting LTD  
-**Associate Software Engineer**  
-*January 2025 - July 2025*
-- Published several Boomi AI agents in the marketplace.
-- Created a monitoring platform for transferring logs from Power Platform, Boomi Azure, and Logic Apps into Azure Log Analyser.
-- Developed Boomi extensions.
 
 **Apprentice Software Engineer**  
 *September 2021 - January 2025*
-- Full stack development on a data scraping platform.
-  - Set up monitoring with Grafana, Loki, and Prometheus.
-  - Added features to a React frontend.
-  - Created a disaster recovery system with AWS CloudFormation.
-  - Migrated CentOS servers to Ubuntu, including creating and verifying MongoDB clusters.
-  - Maintained and enhanced the platform using Vert.x, Java, and Gradle, including unit testing, system testing, and supported UAT testing.
+
+Web Scraping Platform & Boomi Development 
+
+Joined a dynamic, collaborative team responsible for monitoring, maintaining, and enhancing a Java-based web scraping platform used for client data delivery. Worked across backend and frontend systems, ensuring data reliability and system stability, while contributing to monitoring tools and disaster recovery processes.
+Key responsibilities and achievements:
+- Maintained and monitored the React-based frontend, displaying scraping progress and ensuring data accuracy, while troubleshooting proxy issues to prevent disruptions to data access.
+- Managed and analysed system logs and machine metrics using Grafana, Prometheus, and Loki; investigated and resolved dashboard and monitoring issues by self-learning Grafana setup, query languages, and Go templating for alert customisation via Discord and email.
+- Developed, tested, and deployed bug fixes and feature updates through unit tests, integration tests, and controlled testing server deployments.
+- Enhanced backend functionality to support frontend features, including:
+  - Forcing different phases of the scraping process
+  - Updating site-specific scraping code to adapt to API changes, security updates, and layout modifications
+  - Adjusting configuration parameters for improved scraping reliability
+- Performed routine maintenance, including clearing log files and triggering re-scrapes via Mongo commands.
+- Contributed to the disaster recovery system using AWS CloudFormation, creating bash scripts to automate file structure setup, application installation, Git repository cloning, and starting Vert.x and Mongo clusters across multiple virtual machines. This facilitated a migration from CentOS to Ubuntu.
+- Gained hands-on experience with React and TypeScript by adding frontend features and integrating backend modifications.
+
+Final Year Project – Boomi Connector Wrapper
+
+- Developed a Boomi wrapper to extend existing Boomi connector implementations (e.g., database and Snowflake) with additional functionality, including parallel processing, statistical extensions, and circuit-breaker features, using Java and Kotlin.
+- Contributed to the company’s internal development framework, supporting upgrades of current and future client-based projects, and laying groundwork for a potential commercial framework for other consultancies and software development companies.
+
+**Associate Software Engineer**  
+*January 2025 - July 2025*
+
+Boomi Development & AI Agents 
+
+- Continued development of the Boomi connector wrapper and explored tailoring AI agents to showcase use cases for the company’s AI connector alongside its Wikipedia, database, and web-search connectors.
+- Created several Boomi AI agents using in-house developed Boomi connectors within the Boomi Integration platform, communicating with a user interface built in Boomi Flow; these agents were published on the Boomi Marketplace.
+- Assisted in developing in-house Boomi connectors, including testing within the Boomi platform and migrating code and tests from Java to Kotlin for better maintainability. Connectors worked on include Database (SQL and non-SQL), Web Search, Wikipedia and AI.
+- Aided in creating Boomi connector extensions to enhance functionality, including Parallel processing, Circuit breaker and Data transformer (templating languages for formatting and converting JSON to CSV/TSV)
+- Developed an application to wrap Boomi connectors with additional functionality, allowing testing both locally and within Boomi. Implemented via a Gradle project in Kotlin, generating archives as custom connectors, with configurable YAML-based tests.
+- Undertook informal training on the Azure platform, focusing on Logic Apps, Pipelines, Power Automate, Blob Storage and Log Analyser.
 
 ### Oasis Church Feltham  
 **Volunteer**  
@@ -93,26 +91,11 @@ Skilled Software Engineer with 3.5 years of industry experience, adept in full-s
 
 **University of West London**  
 *September 2021 - January 2025*  
-- BSc (Hons) Digital and Technology Solutions - Software Engineer (Second Class Honours, First Division)
+- BSc Digital and Technology Solutions  (2:1) - Second Class Honours (First Division) with IfATE Integrated Apprenticeship Level 6 - Merit
 
 **Esher College**  
 *September 2018 - May 2020*  
-- BTEC National Certificate (QCF) IT – Distinction*  
-- BTEC National Certificate (QCF) Applied Science – Distinction*  
-- BTEC National Certificate (QCF) Creative Media Production – Distinction  
-
-**Thamesmead School**  
-*September 2016 - June 2018*  
-- GCSE Computer Science  
-- GCSE Religious Studies  
-- GCSE Biology  
-- GCSE Chemistry  
-- GCSE Physics  
-- GCSE Maths  
-- GCSE History  
-- GCSE Drama  
-- GCSE English Language  
-- GCSE English Literature  
+- BTEC BTEC Level 3 Subsidiary Diploma IIT (Distinctions*), Applied Science (Distinctions*), Creative Media Production (Distinctions*)
 
 ---
 
@@ -133,12 +116,5 @@ Skilled Software Engineer with 3.5 years of industry experience, adept in full-s
 ---
 
 ## AWARDS, ACHIEVEMENTS & EXTRA-CURRICULAR
-
-**National Citizen Service**  
-*June 2018*  
-- Attended the NCS summer programme focused on developing teamwork, social and life skills.
-
-**School Prefect**  
-*January 2017 - May 2018*  
-- Cared for and supported fellow students, upholding the code of conduct.
-- Helped coordinate activities and events, including school open days for prospective students.
+- **National Citizen Service** – Teamwork, leadership, and social skills development  (Jun 2018)
+- **School Prefect** – Supported the well-being of students, coordinated events, and upheld school conduct  (Jan 2017 – May 2018)
