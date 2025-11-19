@@ -1,7 +1,10 @@
 # Erin Smith
 
 **Mobile:** +44 (0) 7510 542672  
+
 **Email:** erinjaiah@gmail.com
+
+**Linkedin:** https://www.linkedin.com/in/erin-smith-946125370/
 
 ---
 
